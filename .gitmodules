@@ -1,0 +1,3 @@
+[submodule "src/client/Py3GFetion"]
+	path = src/client/Py3GFetion
+	url = git@github.com:cuckoohello/Py3GFetion.git
